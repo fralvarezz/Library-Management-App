@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1481839688 source:c:\users\fufer\documents\proyecto libros grupo 5\archivos necesarios\main.c
+	"estructura.h"
+	"libro.h"
+	"util.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1481839709 c:\users\fufer\documents\proyecto libros grupo 5\archivos necesarios\estructura.h
+
+1481814357 c:\users\fufer\documents\proyecto libros grupo 5\archivos necesarios\libro.h
+	"estructura.h"
+
+1481655408 c:\users\fufer\documents\proyecto libros grupo 5\archivos necesarios\util.h
+
+1481814525 source:c:\users\fufer\documents\proyecto libros grupo 5\archivos necesarios\util.c
+	<stdio.h>
+	<stdlib.h>
+	"util.h"
+
+1481839478 source:c:\users\fufer\documents\proyecto libros grupo 5\archivos necesarios\libro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"libro.h"
+	"util.h"
+
